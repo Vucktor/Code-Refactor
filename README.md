@@ -11,3 +11,6 @@ This has personally allowed me to gain a further understanding of proper accessi
 ## Credits
 
 I have used other sites to help me gain a better understanding of what HTML semantics to use this includes, https://www.w3schools.com/html/html5_semantic_elements.asp.
+
+## Usage
+
