@@ -15,6 +15,6 @@ I have used other sites to help me gain a better understanding of what HTML sema
 ## Usage
 
 
-![alt text](assets/images/Horiseon-Screenshot.png)
+![alt text](https://github.com/vucktor/Code-Refactor/blob/docs/Horiseon-Screenshot?raw=true)
 
 https://vucktor.github.io/Code-Refactor/ (Website Link)
