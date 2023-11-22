@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Changed div to nav for better readability and understanding */
+/* Changed div tag to nav tag for better readability and understanding */
 
 header nav {
     padding-top: 15px;
@@ -71,6 +71,8 @@ p {
     margin-left: 25px;
 }
 
+/* Changed .content selector to main */
+
 main {
     width: 75%;
     display: inline-block;
@@ -88,7 +90,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* Combined most div's and changed to HTML elements(aside) for easier modifications alongisde reducing repeats */
+/* Combined most div's and changed to HTML elements(article) for easier modifications alongisde reducing repeats */
 
 article {
     margin-bottom: 32px;
@@ -106,7 +108,7 @@ article img {
     max-width: 150px; 
 }
 
-/* Combined most div's and changed to HTML elements(article) for easier modifications alongisde reducing repeats */
+/* Combined most div's and changed to HTML elements(section) for easier modifications alongisde reducing repeats */
 
 section {
     margin-bottom: 20px;
