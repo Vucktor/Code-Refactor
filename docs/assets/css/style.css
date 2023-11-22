@@ -71,13 +71,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -90,17 +90,17 @@ p {
 
 /* Combined most div's and changed to HTML elements(aside) for easier modifications alongisde reducing repeats */
 
-aside {
+article {
     margin-bottom: 32px;
     color: #ffffff; 
 }
 
-aside h3 {
+article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside img {
+article img {
     display: block;
     margin: 10px auto;
     max-width: 150px; 
@@ -108,7 +108,7 @@ aside img {
 
 /* Combined most div's and changed to HTML elements(article) for easier modifications alongisde reducing repeats */
 
-article {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,11 +117,11 @@ article {
     color: #ffffff;
 }
 
-article img{
+section img{
     max-height: 200px;
 }
 
-article h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
